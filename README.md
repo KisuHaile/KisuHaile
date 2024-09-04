@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kisu</h1>
 <h3 align="center">A software engineer student in Ethiopia.</h3>
-<img align="right" alt="codding" width="400" src="[https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWd1bDVqaXRib3BhYnVzMGVva2F0YnZ2MXM1bzgyMjAzMTdhbXpyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp)">
+<img align="right" alt="codding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWd1bDVqaXRib3BhYnVzMGVva2F0YnZ2MXM1bzgyMjAzMTdhbXpyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kisuhaile&label=Profile%20views&color=0e75b6&style=flat" alt="kisuhaile" /> </p>
 
